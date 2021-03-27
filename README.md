@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishwas-CSE
+- 👋 Hi, I’m Vishwas Srivastava
 - 👀 I’m interested in building technology solutions
 - 🌱 I’m currently learning deep learining
 - 💞️ I’m looking to collaborate on any ML/DL projects
